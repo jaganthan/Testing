@@ -26,6 +26,10 @@ public class PhoneInfo {
 		System.out.println("Android");
 	}
 	
+	private void  pcName() {
+		// TODO Auto-generated method stub
+		System.out.println("Jagan");
+	}
 	
 	public static void main(String[] args) {
 		PhoneInfo p = new PhoneInfo();
