@@ -25,7 +25,10 @@ public class PhoneInfo {
 		// TODO Auto-generated method stub
 		System.out.println("Android");
 	}
-	
+	private void jagan() {
+		// TODO Auto-generated method stub
+		System.out.println("conflict");
+	}
 	private void  pcName() {
 		// TODO Auto-generated method stub
 		//System.out.println("Jagan");
